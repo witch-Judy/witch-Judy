@@ -9,16 +9,16 @@
 ## ⚔️ 此间江湖 · This Is Jianghu
 
 <p align="center">
-  <a href="https://this-is-jianghu.vercel.app">
+  <a href="https://this-is-jianghu.vercel.app/jianghu.html">
     <img src="media/jianghu.gif" width="640" alt="此间江湖 游戏画面 / gameplay">
   </a>
 </p>
 
-一座江南宅院、一张揭榜的告示。骑马穿过长桥与市集，在灯下听人说话，把序章走完。
+一张揭榜的告示、一匹白马。骑马穿过「汴京长卷」——一整幅可自由走动的清明上河图：长桥、市集、酒楼、州桥夜市，在灯下听人说话，把故事走完。
 
-<sub><i>A courtyard in the south, a notice posted on the wall. Ride across the bridge and through the market, listen to people talk under the lanterns, and walk the prologue to its end.</i></sub>
+<sub><i>A notice on the wall and a white horse. Ride through <b>Bianjing Scroll</b> — the Qingming Riverside painting rebuilt as a world you can walk: bridges, markets, taverns and night stalls. Listen to people under the lanterns and walk the story to its end.</i></sub>
 
-**▶️ [点此试玩 / Play now — this-is-jianghu.vercel.app](https://this-is-jianghu.vercel.app)**
+**▶️ [点此试玩 / Play now — this-is-jianghu.vercel.app/jianghu.html](https://this-is-jianghu.vercel.app/jianghu.html)**
 
 ---
 
@@ -56,7 +56,7 @@
 <tr>
 <td width="50%" align="center">
   <a href="https://rainforest-game.vercel.app/antarctic.html">
-    <img src="media/antarctic.png" width="100%" alt="南极 南乔治亚 / Antarctica">
+    <img src="media/antarctic.gif" width="100%" alt="南极 南乔治亚 / Antarctica">
   </a>
   <br><b>🐧 <a href="https://rainforest-game.vercel.app/antarctic.html">南极 · 南乔治亚 / South Georgia</a></b><br>
   <sub>考察船 + 冲锋艇登陆 · 企鹅会自己摇摆着走到你脚边</sub><br>
