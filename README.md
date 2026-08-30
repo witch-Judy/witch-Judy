@@ -1,7 +1,7 @@
 <h1 align="center">陈小爷 · witch-Judy</h1>
 <p align="center">
-  做能在浏览器里直接打开的中式与自然题材小游戏 · 打开即玩，无需下载<br>
-  <sub><i>Browser-native games about Chinese aesthetics and the wild — no install, just click and play.</i></sub>
+  做能在浏览器里直接打开的游戏与产品 · 打开即玩，无需下载<br>
+  <sub><i>Games and products that live in the browser — no install, just click and play.</i></sub>
 </p>
 
 ---
@@ -30,12 +30,20 @@
   </a>
 </p>
 
-一页你走出来的科考日记。选一处目的地、带上装备，开着越野车或潜下水，去找、去看、去记录野生动物。
+一页你走出来的科考日记。选一处目的地、带上装备，开着越野车、划着独木舟或潜下水，去找、去看、去记录野生动物。四处目的地，四套玩法。
 
-<sub><i>A field journal you write with your own footsteps. Pick a destination, choose your gear, drive out or dive down — find the wildlife, watch it, and log it.</i></sub>
+<sub><i>A field journal you write with your own footsteps. Pick a destination and your gear — drive out, paddle upriver, or dive down — then find the wildlife, watch it, and log it. Four destinations, four ways to play.</i></sub>
 
 <table>
 <tr>
+<td width="50%" align="center">
+  <a href="https://rainforest-game.vercel.app/index.html">
+    <img src="media/borneo.gif" width="100%" alt="婆罗洲雨林 / Borneo">
+  </a>
+  <br><b>🌴 <a href="https://rainforest-game.vercel.app/index.html">婆罗洲雨林 · Borneo</a></b><br>
+  <sub>徒步 + 独木舟溯河 · 循着一个声音、一处痕迹，屏息靠近</sub><br>
+  <sub><i>Trek and paddle a dugout canoe upriver — follow a sound, a track, and hold your breath.</i></sub>
+</td>
 <td width="50%" align="center">
   <a href="https://rainforest-game.vercel.app/serengeti.html">
     <img src="media/serengeti.gif" width="100%" alt="塞伦盖蒂草原 / Serengeti">
@@ -43,6 +51,16 @@
   <br><b>🦁 <a href="https://rainforest-game.vercel.app/serengeti.html">塞伦盖蒂草原 · Serengeti</a></b><br>
   <sub>敞篷越野车 · 熄火举起长焦，等狮子走近</sub><br>
   <sub><i>Open-top safari jeep — cut the engine, raise the lens, wait for the lions.</i></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <a href="https://rainforest-game.vercel.app/antarctic.html">
+    <img src="media/antarctic.png" width="100%" alt="南极 南乔治亚 / Antarctica">
+  </a>
+  <br><b>🐧 <a href="https://rainforest-game.vercel.app/antarctic.html">南极 · 南乔治亚 / South Georgia</a></b><br>
+  <sub>考察船 + 冲锋艇登陆 · 企鹅会自己摇摆着走到你脚边</sub><br>
+  <sub><i>Arrive by research vessel and zodiac — the penguins waddle right up to your boots.</i></sub>
 </td>
 <td width="50%" align="center">
   <a href="https://rainforest-game.vercel.app/reef.html">
@@ -55,13 +73,27 @@
 </tr>
 </table>
 
-- 🐧 [南极 · 南乔治亚 / Antarctica · South Georgia](https://rainforest-game.vercel.app/antarctic.html) —— 考察船 + 冲锋艇登陆，企鹅会自己摇摆着走到你脚边<br>
-  <sub><i>Arrive by research vessel and zodiac; the penguins waddle right up to your boots.</i></sub>
-- 🏞️ [全部目的地入口 / All destinations](https://rainforest-game.vercel.app)
+**▶️ [全部目的地入口 / All destinations — rainforest-game.vercel.app](https://rainforest-game.vercel.app)**
+
+---
+
+## 🌱 Iriseed · 探索 AI 的交互奇境
+
+<p align="center">
+  <a href="https://iriseed.com">
+    <img src="media/iriseed.png" width="720" alt="Iriseed 首页 / homepage">
+  </a>
+</p>
+
+在交互中，玩懂 AI 底层逻辑。把 Transformer、GPT、扩散模型、GAN 这些经典论文做成可以亲手拨弄的交互文章——拖动滑杆看注意力如何分配，亲手当一次标注员理解 RLHF。不用数学背景，先玩，再真的懂。
+
+<sub><i>Understand how AI actually works by playing with it. Landmark papers — Transformer, GPT, diffusion models, GANs — rebuilt as hands-on interactive articles: drag a slider to watch attention shift, label a batch yourself to feel what RLHF is. No math background needed; play first, understand for real after.</i></sub>
+
+**▶️ [进入 / Visit — iriseed.com](https://iriseed.com)**
 
 ---
 
 <p align="center">
-  💡 建议用电脑 Chrome 打开，体验最佳 · <i>Best played on desktop Chrome</i><br>
+  💡 建议用电脑 Chrome 打开，体验最佳 · <i>Best experienced on desktop Chrome</i><br>
   <sub>小红书同名「陈小爷」｜作品源码暂未开源 · <i>Source code not public for now</i></sub>
 </p>
