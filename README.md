@@ -1,7 +1,16 @@
 <h1 align="center">陈小爷 · witch-Judy</h1>
+
 <p align="center">
-  做能在浏览器里直接打开的游戏与产品 · 打开即玩，无需下载<br>
-  <sub><i>Games and products that live in the browser — no install, just click and play.</i></sub>
+  欢迎来到我的创作空间。<br>
+  以下每一个作品，都是点开网页即可进入的探索世界。
+</p>
+<p align="center">
+  <i>Welcome to my creative space.<br>
+  Each project below is an explorable world you can enter directly in your browser.</i>
+</p>
+
+<p align="center">
+  <sub>浏览器游戏 · 互动叙事 · AI 原生产品 · Creative Coding</sub>
 </p>
 
 ---
@@ -14,15 +23,23 @@
   </a>
 </p>
 
-一张揭榜的告示、一匹白马。骑马穿过「汴京长卷」——一整幅可自由走动的清明上河图：长桥、市集、酒楼、州桥夜市，在灯下听人说话，把故事走完。
+一款以《清明上河图》与北宋汴京为灵感的浏览器武侠游戏。
 
-<sub><i>A notice on the wall and a white horse. Ride through <b>Bianjing Scroll</b> — the Qingming Riverside painting rebuilt as a world you can walk: bridges, markets, taverns and night stalls. Listen to people under the lanterns and walk the story to its end.</i></sub>
+玩家将扮演年轻游侠陈昭，揭榜、骑马、潜行、出剑，穿过虹桥、市集、酒楼与州桥夜市，在一幅可以自由行走的「汴京长卷」里经历她的江湖。
 
-**▶️ [点此试玩 / Play now — this-is-jianghu.vercel.app/jianghu.html](https://this-is-jianghu.vercel.app/jianghu.html)**
+序章发生在临河县的一个雨夜。三十七户百姓的田契被夺，联名状即将焚毁。陈昭为四十两揭下私榜，夜入同知宅，取回田契与底册。
+
+她起初相信，一柄剑足以管尽天下不平。后来，她会亲手建起屋舍、药坊、学堂和水上市场——
+
+**既然世上没有她想要的江湖，那她就亲手造一个。**
+
+<sub><i>A browser-based wuxia game inspired by the Northern Song capital and <b>Along the River During the Qingming Festival</b>. Play as Chen Zhao, a young wandering swordswoman. Take bounties, ride across Bianjing, sneak over tiled rooftops, draw your sword, and walk through a living scroll of bridges, markets, taverns and lantern-lit night stalls. She begins believing a single sword can right every wrong — and ends up building houses, apothecaries, schools and a floating market with her own hands. If the jianghu she wants doesn't exist, she will build it herself.</i></sub>
+
+**▶ 开始游戏 / Play now — [this-is-jianghu.vercel.app/jianghu.html](https://this-is-jianghu.vercel.app/jianghu.html)**
 
 ---
 
-## 🌿 见 · Field Journal —— 野外探索系列 / Wildlife Expedition Series
+## 🌿 见 · Field Journal
 
 <p align="center">
   <a href="https://rainforest-game.vercel.app">
@@ -30,9 +47,13 @@
   </a>
 </p>
 
-一页你走出来的科考日记。选一处目的地、带上装备，开着越野车、划着独木舟或潜下水，去找、去看、去记录野生动物。四处目的地，四套玩法。
+一页由你的脚步写成的野外科考日记。
 
-<sub><i>A field journal you write with your own footsteps. Pick a destination and your gear — drive out, paddle upriver, or dive down — then find the wildlife, watch it, and log it. Four destinations, four ways to play.</i></sub>
+选择目的地、带上装备，开着越野车、划着独木舟或潜入海底。循着声音与足迹寻找野生动物，观察它们，并把相遇记录下来。
+
+**四处目的地，四种探索方式。**
+
+<sub><i>A field journal written with your own footsteps. Choose a destination and your gear, then drive, paddle or dive into the wild. Follow sounds and tracks, observe wildlife, and record each encounter. Four destinations, four ways to explore.</i></sub>
 
 <table>
 <tr>
@@ -41,43 +62,43 @@
     <img src="media/borneo.gif" width="100%" alt="婆罗洲雨林 / Borneo">
   </a>
   <br><b>🌴 <a href="https://rainforest-game.vercel.app/index.html">婆罗洲雨林 · Borneo</a></b><br>
-  <sub>徒步 + 独木舟溯河 · 循着一个声音、一处痕迹，屏息靠近</sub><br>
-  <sub><i>Trek and paddle a dugout canoe upriver — follow a sound, a track, and hold your breath.</i></sub>
+  <sub>徒步与独木舟溯河，循着声音和痕迹靠近雨林动物</sub><br>
+  <sub><i>Trek and paddle upriver, closing in on rainforest life by sound and track.</i></sub>
 </td>
 <td width="50%" align="center">
   <a href="https://rainforest-game.vercel.app/serengeti.html">
     <img src="media/serengeti.gif" width="100%" alt="塞伦盖蒂草原 / Serengeti">
   </a>
   <br><b>🦁 <a href="https://rainforest-game.vercel.app/serengeti.html">塞伦盖蒂草原 · Serengeti</a></b><br>
-  <sub>敞篷越野车 · 熄火举起长焦，等狮子走近</sub><br>
-  <sub><i>Open-top safari jeep — cut the engine, raise the lens, wait for the lions.</i></sub>
+  <sub>驾驶敞篷越野车，熄火举起长焦，等待狮群走近</sub><br>
+  <sub><i>Drive an open-top jeep, cut the engine, raise the lens, wait for the pride.</i></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
   <a href="https://rainforest-game.vercel.app/antarctic.html">
-    <img src="media/antarctic.gif" width="100%" alt="南极 南乔治亚 / Antarctica">
+    <img src="media/antarctic.gif" width="100%" alt="南极 南乔治亚 / South Georgia">
   </a>
-  <br><b>🐧 <a href="https://rainforest-game.vercel.app/antarctic.html">南极 · 南乔治亚 / South Georgia</a></b><br>
-  <sub>考察船 + 冲锋艇登陆 · 企鹅会自己摇摆着走到你脚边</sub><br>
-  <sub><i>Arrive by research vessel and zodiac — the penguins waddle right up to your boots.</i></sub>
+  <br><b>🐧 <a href="https://rainforest-game.vercel.app/antarctic.html">南极·南乔治亚 · South Georgia</a></b><br>
+  <sub>搭乘考察船与冲锋艇登陆，走进企鹅栖息地</sub><br>
+  <sub><i>Arrive by research vessel and zodiac, and walk into a king penguin colony.</i></sub>
 </td>
 <td width="50%" align="center">
   <a href="https://rainforest-game.vercel.app/reef.html">
-    <img src="media/reef.gif" width="100%" alt="大堡礁珊瑚礁 / Great Barrier Reef">
+    <img src="media/reef.gif" width="100%" alt="大堡礁 / Great Barrier Reef">
   </a>
-  <br><b>🐠 <a href="https://rainforest-game.vercel.app/reef.html">大堡礁珊瑚礁 · Great Barrier Reef</a></b><br>
-  <sub>自由潜 / 水肺下潜 · 蝠鲼盘旋，满月后珊瑚同步产卵</sub><br>
-  <sub><i>Freedive or scuba — manta rays circling, corals spawning after the full moon.</i></sub>
+  <br><b>🐠 <a href="https://rainforest-game.vercel.app/reef.html">大堡礁 · Great Barrier Reef</a></b><br>
+  <sub>自由潜或水肺下潜，观察蝠鲼与珊瑚同步产卵</sub><br>
+  <sub><i>Freedive or scuba to watch manta rays and the corals' synchronized spawning.</i></sub>
 </td>
 </tr>
 </table>
 
-**▶️ [全部目的地入口 / All destinations — rainforest-game.vercel.app](https://rainforest-game.vercel.app)**
+**▶ 开始探索 / Explore all destinations — [rainforest-game.vercel.app](https://rainforest-game.vercel.app)**
 
 ---
 
-## 🌱 Iriseed · 探索 AI 的交互奇境
+## 🌱 Iriseed · AI Interactive Playground
 
 <p align="center">
   <a href="https://iriseed.com">
@@ -85,15 +106,27 @@
   </a>
 </p>
 
-在交互中，玩懂 AI 底层逻辑。把 Transformer、GPT、扩散模型、GAN 这些经典论文做成可以亲手拨弄的交互文章——拖动滑杆看注意力如何分配，亲手当一次标注员理解 RLHF。不用数学背景，先玩，再真的懂。
+一个通过互动体验理解 AI 的知识游乐园。
 
-<sub><i>Understand how AI actually works by playing with it. Landmark papers — Transformer, GPT, diffusion models, GANs — rebuilt as hands-on interactive articles: drag a slider to watch attention shift, label a batch yourself to feel what RLHF is. No math background needed; play first, understand for real after.</i></sub>
+我把 Transformer、GPT、扩散模型和 GAN 等经典概念，做成可以亲手操作的交互文章：拖动滑杆观察注意力如何变化，亲手完成一次数据标注，从体验中理解 RLHF。
 
-**▶️ [进入 / Visit — iriseed.com](https://iriseed.com)**
+**不要求数学背景。先玩，然后真正理解。**
+
+<sub><i>An interactive playground for understanding how AI works. Explore landmark ideas such as Transformers, GPT, diffusion models and GANs through hands-on experiences. No advanced math required. Play first, understand for real after.</i></sub>
+
+**▶ 进入 Iriseed / Visit — [iriseed.com](https://iriseed.com)**
 
 ---
 
+## About
+
+我是陈小爷，一名独立 Builder。
+
+我喜欢把历史、自然、AI 和故事，做成真正可以进入、操作和探索的数字世界。这里记录的不是产品概念，而是已经可以在浏览器里打开的作品。
+
+<sub><i>I'm an independent builder creating explorable worlds at the intersection of games, storytelling, AI and the web.</i></sub>
+
 <p align="center">
-  💡 建议用电脑 Chrome 打开，体验最佳 · <i>Best experienced on desktop Chrome</i><br>
-  <sub>小红书同名「陈小爷」｜作品源码暂未开源 · <i>Source code not public for now</i></sub>
+  💡 建议使用电脑端 Chrome 体验 · <i>Best experienced on desktop Chrome.</i><br>
+  <sub>小红书同名：陈小爷</sub>
 </p>
