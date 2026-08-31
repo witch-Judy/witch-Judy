@@ -3,6 +3,7 @@
 <p align="center">
   欢迎来到我的创作空间。<br>
   以下每一个作品，都是点开网页即可进入的探索世界。
+  I build playable worlds with AI.
 </p>
 <p align="center">
   <i>Welcome to my creative space.<br>
