@@ -127,13 +127,7 @@
   </a>
 </p>
 
-一只跟着你鼠标走的小黑猫,和一份教你亲手做一只的手记。
-
-打开网页,它坐在那里盯着你的光标看;往下滚,它就迈着腿跟过来陪你读完。你手停下三秒,它会蜷成一团睡着。
-
-它是用三段 AI 生成的视频做出来的——坐姿、走路、睡觉,各管一件事。手记把整个流程拆成四步讲清楚:**想清楚它会做什么 → 生成三段视频 → 交给 AI 处理成精灵图 → 告诉 AI 你要的效果**。
-
-**全程不用写代码,但你需要知道该提什么要求。**
+一只跟着你鼠标走的小黑猫
 
 <sub><i>A little black cat that follows your cursor — and a build log teaching you to make your own. It watches your pointer, trots after you as you scroll, and curls up asleep when you stop moving. Built from three AI-generated clips (sitting, walking, sleeping), turned into a sprite sheet. The write-up breaks it into four steps you can follow without writing a line of code. Also ships as a Chrome extension and a macOS desktop pet.</i></sub>
 
