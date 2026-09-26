@@ -99,6 +99,28 @@
 
 ---
 
+## 🧹 一丝不苟的魔女的家 · Methodical Witch's House
+
+<p align="center">
+  <a href="https://witch-house-tawny.vercel.app">
+    <img src="media/witch-house.gif" width="640" alt="一丝不苟的魔女的家 游戏画面 / gameplay">
+  </a>
+</p>
+
+一座住着年轻魔女薇拉的半木结构小屋，和一片被打理得井井有条的庭园。
+
+像《模拟人生》一样照看她的日常：点一下地面，她就走过去；点一下家具，她会读书、写魔法笔记、在壁炉前熬药、从井里打水去浇菜、喂鸡、推开窗户。熬好的魔药会摆在餐桌上，喝下去也许会让她飘起来。
+
+墙壁可以剖开看屋内，时间会从清晨流到深夜。累了就让她骑上扫帚，飞过菜畦、药草园和院外的森林——你也可以切到自由视角，从高空俯瞰整座小院。
+
+**房屋、家具、植物和魔女，全部用代码一点点搭出来。**
+
+<sub><i>A little half-timbered cottage and a meticulously kept garden, home to a young witch named Vera. Look after her day the way you would in The Sims: click the ground and she walks there; click furniture and she reads, writes spell notes, brews potions by the fireplace, draws water from the well to water the vegetables, feeds the chickens, opens the windows. Finished potions appear on the dining table — drink one and she might start to float. Cut away the walls to peek inside, watch the day turn from dawn to night, then send her off on her broom over the garden and the forest beyond — or switch to free camera and take in the whole place from above. Built entirely in code with three.js WebGPU and TSL: the house, the furniture, every plant, and the witch herself.</i></sub>
+
+**▶ 进入小屋 / Play now — [witch-house-tawny.vercel.app](https://witch-house-tawny.vercel.app)**
+
+---
+
 ## 🌱 Iriseed · AI Interactive Playground
 
 <p align="center">
