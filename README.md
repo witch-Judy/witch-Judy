@@ -56,7 +56,19 @@
 
 <sub><i>A blooming 3D map of China and a field guide for the October holidays. Thirty-four regions, each planted with its own October flora — smoke trees of Fragrant Hills, osmanthus of Hangzhou, golden poplars of Ejina, the red seepweed beach of Panjin. Tap a region and its plants burst into bloom from the center outward, then a card opens with the season's flora, two places to go, and one craft worth the trip: cloisonné, Longquan celadon, Bai tie-dye, thangka, Weifang kites and more. Craft models come from museum 3D scans, open-access collections and AI modeling; every plant is drawn in code.</i></sub>
 
-**▶ 打开地图 / Explore — [october-fengwuzhi.vercel.app](https://october-fengwuzhi.vercel.app)** · <sub>美术资产 / Asset gallery — [october-fengwuzhi.vercel.app/october-3d/assets.html](https://october-fengwuzhi.vercel.app/october-3d/assets.html)</sub>
+**▶ 打开地图 / Explore — [october-fengwuzhi.vercel.app](https://october-fengwuzhi.vercel.app)**
+
+<p align="center">
+  <a href="https://october-fengwuzhi.vercel.app/october-3d/assets.html">
+    <img src="media/october-assets.png" width="720" alt="十月风物志 美术资产页 / asset gallery">
+  </a>
+</p>
+
+**🎨 美术资产页**：三十四处的十月花木插画与手艺模型一页看全。点开任意一件，可以拖动旋转、缩放，切换点 / 线 / 面查看网格结构。
+
+<sub><i>Asset gallery: every region's October plant illustration and craft model in one place. Open any piece to orbit, zoom, and switch between point / wireframe / solid views.</i></sub>
+
+**▶ 逛美术资产 / Browse assets — [october-fengwuzhi.vercel.app/october-3d/assets.html](https://october-fengwuzhi.vercel.app/october-3d/assets.html)**
 
 ---
 
