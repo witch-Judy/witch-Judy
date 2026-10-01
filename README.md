@@ -175,6 +175,26 @@
 
 ---
 
+## 🌿 绿之文明 · The Green Civilization
+
+<p align="center">
+  <a href="https://witch-house-tawny.vercel.app/city.html">
+    <img src="media/green-city.gif" width="640" alt="绿之文明 从白模到上色 / from whitebox to color">
+  </a>
+</p>
+
+一座建筑和植物一起生长的城市：塔楼顶上长着大树，风车塔自己发电，齿轮日夜慢慢转动，有人干脆住进了树里。
+
+魔女薇拉搬进了广场旁一栋五层小楼——地下是秘密植物园和鼹鼠先生的小门，往上是客厅厨房、药草浴室和卧室、满墙专业书的植物学书房，屋顶是玻璃阳光房和一棵樱桃树。一座旋转楼梯串起五层：点一下楼梯她就自己爬上去，点家具弹出环形菜单，做饭、泡药草浴、睡觉、在书房读《绿之文明》、骑上扫帚绕城飞一圈。
+
+**从 AI 画参考图，到白模、上色、让角色活起来，最后上架小红书小工具——每一步都用 AI 完成。**
+
+<sub><i>A city where buildings and plants grow together — trees on top of towers, a windmill tower that powers itself, giant gears turning day and night, and families who simply moved into a tree. Witch Vera lives in a five-storey house by the plaza: a secret glowing garden in the basement (with a little round door to Mr. Mole's burrow), a living room and kitchen, a herbal bathroom and bedroom, a botanist's study lined with books, and a glass sunroom with a cherry tree on the roof. A spiral staircase connects all five floors — click it and she climbs up on her own; click furniture for a Sims-style pie menu: cook, take a herbal bath, sleep, read in the study, or fly a lap around the city on her broom. Made with AI end to end — from concept art to whitebox, materials, a living character, and a Xiaohongshu mini-tool.</i></sub>
+
+**▶ 走进绿之城 / Play now — [witch-house-tawny.vercel.app/city.html](https://witch-house-tawny.vercel.app/city.html)** · <sub>只看小屋 / House only — [city.html?house](https://witch-house-tawny.vercel.app/city.html?house)</sub>
+
+---
+
 ## 🌱 Iriseed · AI Interactive Playground
 
 <p align="center">
