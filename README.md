@@ -40,6 +40,26 @@
 
 ---
 
+## 🍂 十月风物志 · October Field Guide
+
+<p align="center">
+  <a href="https://october-fengwuzhi.vercel.app">
+    <img src="media/october.gif" width="360" alt="十月风物志 竖屏画面 / gameplay">
+  </a>
+</p>
+
+一张会开花的三维中国地图，一本国庆出游的十月手帖。
+
+全国三十四处，每一处都种满它十月的花木：香山的黄栌、满觉陇的丹桂、额济纳的胡杨、盘锦的红海滩。点开一处，花从中心一圈圈绽开，再翻开一页手帖——当季花木、两处宜游，和一门值得专程去看的手艺：景泰蓝、龙泉青瓷、白族扎染、唐卡、潍坊风筝……
+
+**手艺模型来自文物三维扫描、博物馆开放馆藏与 AI 建模，花木全部用代码一笔笔画出。**
+
+<sub><i>A blooming 3D map of China and a field guide for the October holidays. Thirty-four regions, each planted with its own October flora — smoke trees of Fragrant Hills, osmanthus of Hangzhou, golden poplars of Ejina, the red seepweed beach of Panjin. Tap a region and its plants burst into bloom from the center outward, then a card opens with the season's flora, two places to go, and one craft worth the trip: cloisonné, Longquan celadon, Bai tie-dye, thangka, Weifang kites and more. Craft models come from museum 3D scans, open-access collections and AI modeling; every plant is drawn in code.</i></sub>
+
+**▶ 打开地图 / Explore — [october-fengwuzhi.vercel.app](https://october-fengwuzhi.vercel.app)** · <sub>美术资产 / Asset gallery — [october-fengwuzhi.vercel.app/october-3d/assets.html](https://october-fengwuzhi.vercel.app/october-3d/assets.html)</sub>
+
+---
+
 ## 🌿 见 · Field Journal
 
 <p align="center">
