@@ -40,6 +40,28 @@
 
 ---
 
+## 🏮 汴河水市 · The Floating Market on the Bian River
+
+<p align="center">
+  <a href="https://chenxiaoye.vercel.app/shuishi.html">
+    <img src="media/shuishi.gif" width="640" alt="汴河水市 游戏画面 / gameplay">
+  </a>
+</p>
+
+《此间江湖》的节日篇。上元夜，汴河上的一座水上集市。
+
+你驾一叶扁舟，在满河灯火间摇橹穿行。十几条货船就是十几间铺子：圆子、兔儿灯、建茶、龙泉瓷、胭脂、泥孩儿、团扇、蜜煎……摊主立在船尾招呼，靠过去就能看货。宣纸立轴缓缓展开，有摊主的题跋、货物的来历与价钱；买下时朱砂方印落下，货真的堆到你的船头。
+
+入夜后竹篾纸灯随船摇晃，莲花河灯顺水漂远，烟花和打铁花把半条河照亮。买齐三样年货，划到河心，放一盏自己的灯。
+
+**没有战斗，只有一夜灯市。**
+
+<sub><i>A festival chapter of <b>This Is Jianghu</b>: a floating market on the Bian River on the night of the Lantern Festival. Row a small skiff between more than a dozen merchant boats — sweet dumplings, rabbit lanterns, Jian tea, Longquan celadon, rouge, clay dolls, silk fans, candied fruit. Pull alongside and a paper scroll unrolls with the seller's inscription, the story of the goods and the price; buy, and a cinnabar seal stamps the deal while the goods pile onto your own boat. As night falls, bamboo-and-paper lanterns sway with the boats, lotus lanterns drift downstream, and fireworks and molten-iron sparks light up the river. Gather three New Year goods, row to the middle of the river, and set a lantern of your own afloat. No fighting — just one night at the lantern market.</i></sub>
+
+**▶ 逛水市 / Play now — [chenxiaoye.vercel.app/shuishi.html](https://chenxiaoye.vercel.app/shuishi.html)**
+
+---
+
 ## 🍂 十月风物志 · October Field Guide
 
 <p align="center">
