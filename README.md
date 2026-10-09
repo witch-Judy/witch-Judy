@@ -16,6 +16,28 @@
 
 ---
 
+## 🎮 House 游戏机 · House Console
+
+<p align="center">
+  <a href="https://witch-house-tawny.vercel.app/hub.html">
+    <img src="media/house-console.gif" width="640" alt="House 游戏机 插卡带开玩 / insert a cartridge and play">
+  </a>
+</p>
+
+我做过的治愈系小游戏，都放进了这台粉红色的掌机里。
+
+桌上摆着一盒卡带，每一张都是一个小世界：草莓乐园、草莓之都、草莓小屋、植物小屋、秋林小屋、绿之文明、魔女的家、退潮啦。点一张卡带，它会飞进掌机顶部的卡槽，开机之后，游戏就在掌机的屏幕里跑起来——可以直接玩。
+
+掌机上的按键都是真的：摇杆和十字键让小魔女走路，A 键施法，L / R 上下楼。按下拍照键，当前的画面会变成一张拍立得，从掌机底下吐出来，落在桌上。玩够了按 Home，卡带弹回盒子里，换一张再玩。
+
+**一台掌机，一盒卡带，一整个系列的小世界。**
+
+<sub><i>Every cozy little game I've made, gathered into one pink handheld console. A case of cartridges sits on the desk, each one a small world — Berry Land, Strawberry Town, Berry Home, Plant House, Autumn Cottage, The Green Civilization, Witch House, Low Tide. Click a cartridge and it flies into the slot on top of the console; after the boot screen, the game runs right there on the console's screen, fully playable. The buttons really work: the stick and D-pad walk the little witch, A casts a spell, L / R go up and down stairs. Press the capture button and the current frame turns into a polaroid that slides out from under the console onto the desk. Press Home to eject, and pick another cartridge. One console, one case of cartridges, a whole series of tiny worlds.</i></sub>
+
+**▶ 打开掌机 / Play now — [witch-house-tawny.vercel.app/hub.html](https://witch-house-tawny.vercel.app/hub.html)**
+
+---
+
 ## ⚔️ 此间江湖 · This Is Jianghu
 
 <p align="center">
