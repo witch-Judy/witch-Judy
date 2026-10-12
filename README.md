@@ -38,6 +38,28 @@
 
 ---
 
+## 🐟 生而远行 · 逆流而上 · Born to Journey: Upstream
+
+<p align="center">
+  <a href="https://born-to-journey.vercel.app/">
+    <img src="media/salmon.gif" width="640" alt="逆流而上 游戏画面 / gameplay">
+  </a>
+</p>
+
+自然冒险系列《生而远行》的第一章。你是一条在大海里度过了两三年的红鲑。
+
+记忆里的一股气味把你领回了出生的溪流。从这里开始，你不会再吃任何东西。逆着急流向上游，躲进岩石下游的回水区喘口气，紧跟同伴省下力气；在瀑布下翻滚的白浪里蓄力起跳，提防浅滩上巡游的棕熊，还有守在瀑布顶上张着嘴的那一头。
+
+同行的鱼群里，并不是每一条都能回到卵石河床。抵达的那一刻，旅程结束，生命也在这里延续。
+
+**你从这条河流中来，也终将回到这条河流中去。**
+
+<sub><i>Chapter one of the nature adventure series <b>Born to Journey</b>. You are a sockeye salmon home from the sea, and from here on you will never eat again. Fight upstream against the current, rest in the eddies behind rocks, draft behind your school, charge your leap in the white water below each waterfall, and keep clear of the brown bears wading the shallows — and the one waiting at the top of the falls. Not every fish in your school will make it back to the gravel where it hatched. Keyboard on desktop, touch controls on phones.</i></sub>
+
+**▶ 开始洄游 / Play now — [born-to-journey.vercel.app](https://born-to-journey.vercel.app/)**
+
+---
+
 ## ⚔️ 此间江湖 · This Is Jianghu
 
 <p align="center">
