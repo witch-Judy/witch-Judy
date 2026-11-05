@@ -106,6 +106,26 @@
 
 ---
 
+## 🛶 一船江南 · A Boat Through Jiangnan
+
+<p align="center">
+  <a href="https://gufeng-zeta.vercel.app">
+    <img src="media/yichuan.gif" width="640" alt="一船江南 游戏画面 / gameplay">
+  </a>
+</p>
+
+江湖古风游戏系列的江南篇，一座以乌镇为蓝本的 3D 水乡。
+
+你乘一叶乌篷船从古镇码头出发，穿过石拱桥、临水茶馆与白墙黛瓦，在灯笼亮起时抵达夜色码头。清晨、晴光、江南烟雨、春江花月夜，四种天气随你选。一路环顾两岸，收集发光处的明信片，轻点水面，泛起涟漪。
+
+**在一叶小舟中，遇见最美的江南。**
+
+<sub><i>The Jiangnan chapter of my jianghu game series: a 3D water town modeled on Wuzhen. Board a small canopied boat at the old town pier and drift past stone arch bridges, riverside teahouses and whitewashed walls, reaching the night pier as the lanterns come on. Choose from four moods — dawn, clear sky, misty rain and moonlit spring river. Look around both banks, collect postcards from the glowing spots, and tap the water to send out ripples.</i></sub>
+
+**▶ 启程 / Play now — [gufeng-zeta.vercel.app](https://gufeng-zeta.vercel.app)**
+
+---
+
 ## 🍂 十月风物志 · October Field Guide
 
 <p align="center">
